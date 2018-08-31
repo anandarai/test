@@ -1,0 +1,16 @@
+PODS:
+  - Helper (0.1.0)
+
+DEPENDENCIES:
+  - Helper (from `../`)
+
+EXTERNAL SOURCES:
+  Helper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Helper: 7af105743a569b53bc224850cc7d57fbe9863bdb
+
+PODFILE CHECKSUM: 9619b5687578d3e2a75999c092fad7f4e7ad303b
+
+COCOAPODS: 1.5.3
